@@ -1,0 +1,4 @@
+data:image /svg+xml'base64,
+PHN2ZyB4bWxicz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdo
+dD0iNTAwIj4KPHRleHQgIHg9IjAiIHk9ICIxNSIgZmlsbD0iYmxhY2siPkhpISBZb3VyIGJyb3dz
+ZXIgZGVjb2RlZCB0aGlzPC90ZXh0PgoKPC9zdmc+Cg==
